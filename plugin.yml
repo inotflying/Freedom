@@ -1,7 +1,7 @@
 name: Freedom
 description: A PocketMine-MP plugin that frees the chat of your server from stupid Microjang reporting system.
-author: inotflying
+author: inotflying, Terpz710
 website: https://github.com/inotflying/Freedom
 main: inotflying\Freedom\Main
-version: 1.0.0
-api: 4.0.0
+version: 1.0.1
+api: 5.0.0
